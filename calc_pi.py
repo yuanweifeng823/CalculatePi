@@ -37,7 +37,6 @@ class PiCalculator(object):
 
             one_point = Point2D(one_x, one_y)
             self.points_list.append(one_point)
-            self.points_list.append(one_point)
 
     def sum_points_in_circle(self) -> int:
         sum = 0
