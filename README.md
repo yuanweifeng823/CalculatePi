@@ -9,7 +9,7 @@
 
 ![](bg2015072603.jpg)
 
-[蒙特卡罗方法入门](http://www.ruanyifeng.com/blog/2015/07/monte-carlo-method.html)
+[蒙特卡罗方法入门, 阮一峰, 2015.](http://www.ruanyifeng.com/blog/2015/07/monte-carlo-method.html)
 
 ## 实验要求
 
